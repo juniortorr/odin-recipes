@@ -1,1 +1,1 @@
-# odin-recipes
+Hi! This is my first project within The Odin Project curricular. This is a recipe list where I will demonstrate basic HTML with the goal of coming back to add some CSS styling to it later on. 
